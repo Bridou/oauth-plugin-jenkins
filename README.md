@@ -25,8 +25,8 @@ Plugin Build:
 - apache-maven-3.0.5 
 - Java 1.6.0_18
 
-Make sure JAVA_HOME points to Java 1.6.0_18 
-Make sure PATH points to Java 1.6.0_18 binaries and apache-maven-3.0.5 binaries 
-$ mvn package 
-$ mvn install
+1. Make sure JAVA_HOME points to Java 1.6.0_18 
+2. Make sure PATH points to Java 1.6.0_18 binaries and apache-maven-3.0.5 binaries 
+3. $ mvn package 
+4. $ mvn install
 
